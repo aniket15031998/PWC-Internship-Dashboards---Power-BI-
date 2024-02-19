@@ -1,6 +1,7 @@
 # PWC-Internship-Dashboards---Power-BI-
 
 Churn data analysis dashboard - https://www.novypro.com/project/churn-data-analysis-3
+
 Diversity and Inclusions analysis - https://www.novypro.com/profile_projects/aniketkale
 
  * Completed a job simulation where I strengthened my PowerBI skills to better
